@@ -2,4 +2,4 @@
 
 docker-compose build
 
-docker-compose ud -d
+docker-compose up -d
