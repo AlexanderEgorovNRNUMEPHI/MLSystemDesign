@@ -1,0 +1,7 @@
+requests
+pandas
+numpy
+minio
+python-dotenv
+pyspark==3.5.0
+loguru
